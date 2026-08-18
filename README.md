@@ -4,7 +4,9 @@ I'm a Computer Science graduate interested in software engineering, machine lear
 
 ## 🧑‍💻 What I'm working on
 
-![ActivityDoor Activity](https://actdoor.onrender.com/api/getActivity/kanematthews?type=github)
+## 💻 Currently Coding
+
+![VS Code Activity](https://actdoor.onrender.com/api/getActivity/kanematthews?type=github&theme=dark)
 
 ## 🚀 Current Projects
 
