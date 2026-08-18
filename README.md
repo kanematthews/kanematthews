@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I'm Kane 👋
 
-<!--
-**kanematthews/kanematthews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate interested in software engineering, machine learning and AI.
 
-Here are some ideas to get you started:
+## 🧑‍💻 What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![ActivityDoor Activity](https://actdoor.onrender.com/api/getActivity/kanematthews?type=github)
+
+## 🚀 Current Projects
+
+- 🧠 Reinforcement Learning Game Agent
+- 🤖 Machine Learning & AI experiments
+- 🎮 Game development
